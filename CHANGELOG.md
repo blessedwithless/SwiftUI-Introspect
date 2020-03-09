@@ -5,6 +5,7 @@ Changelog
 
  - Allow `Introspect` to be imported in apps that support older platform versions.
  - Added Catalyst support in the Introspect iOS framework.
+- Added `introspectTableViewCell`
 
 ## [0.1.0]
 
